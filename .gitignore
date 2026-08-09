@@ -1,0 +1,6 @@
+*.bin
+*.pt
+*.pth
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
